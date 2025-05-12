@@ -13,7 +13,10 @@ The project consists of many project lanuages
 - SQL
 - Dashboard
 
-Website: [](ht) 
+## Website
+Website: [put dot com here](whole link of website ) 
+
+Image: ![Pokemon](https://kuwashiijapanese.com/wp-content/uploads/2017/01/pokemon1.jpg)
 
 
 Email:

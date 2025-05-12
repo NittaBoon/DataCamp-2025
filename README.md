@@ -1,7 +1,8 @@
 # DataCamp-2025
 Data Science Projects
+This would be a good beginning point
 
-The project consists of many project lanuages
+The project consists of many project languages
 - Google sheets
 - Data base
 - R programing
